@@ -1,0 +1,1923 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"backup_sheet"
+			],
+			[
+				"view",
+				"view_model_part"
+			],
+			[
+				"tem",
+				"temsheet"
+			],
+			[
+				"face",
+				"facsheet"
+			],
+			[
+				"def",
+				"defsheet"
+			],
+			[
+				"req",
+				"reqsheet"
+			],
+			[
+				"re",
+				"requirements"
+			],
+			[
+				"fac",
+				"facsheet"
+			],
+			[
+				"chara",
+				"character_sheet"
+			],
+			[
+				"charact",
+				"character_sheet"
+			],
+			[
+				"fa",
+				"face"
+			],
+			[
+				"defa",
+				"defaults_editor"
+			],
+			[
+				"temp",
+				"template_editor"
+			],
+			[
+				"templa",
+				"template"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"Produ",
+				"ProductionPool"
+			],
+			[
+				"produ",
+				"production_pool"
+			],
+			[
+				"mag",
+				"magic_end"
+			],
+			[
+				"ma",
+				"magic_start"
+			],
+			[
+				"magi",
+				"magic_alt"
+			],
+			[
+				"in",
+				"in_zone"
+			],
+			[
+				"al",
+				"alternative_token"
+			],
+			[
+				"end",
+				"end_token"
+			],
+			[
+				"begi",
+				"begin_token"
+			],
+			[
+				"magic",
+				"magic_word"
+			],
+			[
+				"RET",
+				"return"
+			],
+			[
+				"fi",
+				"fil"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"des",
+				"dest_absolute_path"
+			],
+			[
+				"om",
+				"omit_next"
+			],
+			[
+				"filt",
+				"filter"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"dia",
+				"diag_folder_path"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"PRo",
+				"ProductionPool"
+			],
+			[
+				"Prodp",
+				"ProductionPool"
+			],
+			[
+				"Pr",
+				"ProductionPool"
+			],
+			[
+				"Rulp",
+				"RulePopulation"
+			],
+			[
+				"Cyk",
+				"CykCellExecutor"
+			],
+			[
+				"Symbol",
+				"SymbolConverter"
+			],
+			[
+				"Symob",
+				"SymbolTranslator"
+			],
+			[
+				"fra",
+				"frame_carbondioxyde"
+			],
+			[
+				"price",
+				"price_exclusive"
+			],
+			[
+				"class_",
+				"class_superlight_racing"
+			],
+			[
+				"class",
+				"class_superlight_racing"
+			],
+			[
+				"wei",
+				"weight_heavy"
+			],
+			[
+				"pric",
+				"price_sport"
+			],
+			[
+				"priama",
+				"price_amature"
+			],
+			[
+				"bra",
+				"brakes_category_race"
+			],
+			[
+				"droga",
+				"droga_downhill"
+			],
+			[
+				"weight",
+				"weight_maybe_superlight"
+			],
+			[
+				"we",
+				"weight_normal"
+			],
+			[
+				"dro",
+				"droga_mieszana"
+			],
+			[
+				"po",
+				"Polsku"
+			],
+			[
+				"ME",
+				"MEAN_SPAWN_TIME"
+			],
+			[
+				"requ",
+				"request_handle"
+			],
+			[
+				"ran",
+				"rand_provider"
+			],
+			[
+				"new",
+				"new_request"
+			],
+			[
+				"E",
+				"EXPECT_EQ"
+			],
+			[
+				"gene",
+				"generator"
+			],
+			[
+				"time",
+				"time_until_next_request"
+			],
+			[
+				"ge",
+				"gen"
+			],
+			[
+				"ne",
+				"next_random_value"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"rand",
+				"random_provider"
+			],
+			[
+				"EXPECT_",
+				"EXPECT_FALSE"
+			],
+			[
+				"is",
+				"is_ready"
+			],
+			[
+				"de",
+				"def	#ifndef … #define … #endif"
+			],
+			[
+				"pro",
+				"processors"
+			],
+			[
+				"pr",
+				"proc"
+			],
+			[
+				"proce",
+				"processors"
+			],
+			[
+				"fo",
+				"forv	Vector For Loop"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"EXPe",
+				"EXPECT_TRUE"
+			],
+			[
+				"proc_re",
+				"request_processor_manager"
+			],
+			[
+				"proc",
+				"processors"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"cons",
+				"constexpr"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"when",
+				"when_using_processor_manager"
+			],
+			[
+				"reques",
+				"request_handle"
+			],
+			[
+				"ccs",
+				"ccs_master_tag"
+			],
+			[
+				"hwa",
+				"hwapi_clear_flow"
+			],
+			[
+				"nu",
+				"numbers"
+			],
+			[
+				"he",
+				"headerend"
+			],
+			[
+				"thro",
+				"throw_if_any_invalid_numbers"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"get",
+				"get_delimiter_or_throw"
+			],
+			[
+				"negatives",
+				"negatives_found"
+			],
+			[
+				"neg",
+				"negative_number_message_formatter"
+			],
+			[
+				"inv",
+				"invalid_numbers"
+			],
+			[
+				"inval",
+				"invalid_number"
+			],
+			[
+				"negsa",
+				"negatives_not_allowed_exception"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"inva",
+				"invalid_format_exception"
+			],
+			[
+				"strin",
+				"string::npos"
+			],
+			[
+				"cs",
+				"c_str"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"string",
+				"string_calculator"
+			],
+			[
+				"make",
+				"make_run"
+			],
+			[
+				"char",
+				"charstring"
+			],
+			[
+				"f_check_ta",
+				"f_check_target_bd_copy_after_successfull_test"
+			],
+			[
+				"lo",
+				"long"
+			],
+			[
+				"wh",
+				"while"
+			],
+			[
+				"targ",
+				"targetbd_name"
+			],
+			[
+				"log",
+				"log	log.info(…)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "diagrams/app_bus.wsd",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "diagrams/component_diagram.wsd",
+			"settings":
+			{
+				"buffer_size": 1105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "diagrams/layered_diagram.wsd",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "concept.txt",
+			"settings":
+			{
+				"buffer_size": 6064,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst	",
+		"selected_items":
+		[
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packA",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Michał/PycharmProjects/mgr/character_sheet",
+		"/C/Users/Michał/PycharmProjects/mgr/character_sheet/docs",
+		"/C/Users/Michał/PycharmProjects/mgr/character_sheet/docs/diagrams"
+	],
+	"file_history":
+	[
+		"/C/Users/Michał/PycharmProjects/mgr/character_sheet/docs/diagrams/plantuml.jar",
+		"/F/Studies/interpeter/test.cpp",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/gui_manager.png",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/sgcs_results/31_sgcs_characteristics_2/task_11/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/character_sheet/docs/project_ideas.docx",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/neg_sgcs_next_run/task_9/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/gui_manager.wsd",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/toy opt los 65534",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/sgcs_next_run/task_10/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/t7 opt 15 max",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/t7.inconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/bra3 los 200 30",
+		"/C/Users/Michał/PycharmProjects/mgr/BLACK_NOTE",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/sgcs_results/31_gcs_characteristics_3/task_9/grammar_estimator.grest",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/unold0_gcs_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/sgcs_results/31_gcs_characteristics_3/task_0/grammar_estimator.grest",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/sgcs_results/31_gcs_characteristics_3/task_0/gcs.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/characteristic_data/t4.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/unold0_gcs_corrected_run10.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/unold0_corrected_run10.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/unold0_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/sgcs_negative_run10.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/sgcs_negative.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/final/28_finish_gcs/task_0/unold0_gcs_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/28_other_gcs/task_2/gcs.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/other_negative/task_0/sgcs_negative_run10.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/28_other_gcs/task_2/grammar_estimator.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/28_other_gcs/task_2/t3.inconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/2016_01_18/task_0/unold0.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/tomita_standard_run_19_2/task_0/unold0_gcs.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/tomita_standard_run_19/task_7/unold0_gcs_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/tomita_standard_run_19/task_0/unold0_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/tomita_standard_run_18/task_0/unold0_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/tomita_19/task_0/unold0_gcs_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/negative/task_0/sgcs_negative.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/2015_01_17/task_0/unold0.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/2015_01_07_2/task_0/unold0_gcs.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/tomita_size_corrected/task_0/unold0_gcs_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/tomita_2016_01_16/task_0/unold0.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/tomita_2016_01_15/task_0/unold0.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/standard_ab/task_11/unold0_corrected_run10.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/other_201501_15/task_0/unold0.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/neg2_tomita/task_0/sgcs_negative.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/neg_tomita/task_0/sgcs_negative.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/2015_01_07_2/task_0/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/tmp/task_0/afcac.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/tomita 1.txt",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/tomita 2.txt",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/tomita 3.txt",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/tomita 4.txt",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/tomita 5.txt",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/tomita 6.txt",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/tomita 7.txt",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/ab los 200 30",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/anbn los 200 15",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/bra1 los2 200 30",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/pal2 parz los 200",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/toy los2 200 30",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/tmp2/task_0/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/final/sgcs_small/task_3/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/sgcs_small/task_0/t1.inconf",
+		"/C/Users/Michał/PycharmProjects/mgr/trash/Trash/sgcs_small/task_0/unold0_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/final/neg2_tomita/task_1/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/tmp/task_0/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/final/neg2_tomita/task_0/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/t1 opt 15 max",
+		"/C/Users/Michał/PycharmProjects/mgr/final/negative/task_0/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/unold0.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/tmp.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/final/standard_ab/task_11/toy.inconf",
+		"/C/Users/Michał/PycharmProjects/mgr/final/standard_ab/task_9/unold0_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/tomita_19/task_1/unold0_gcs_corrected.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/unold0_gcs.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/tomita_2016_01_16/task_1/grammar_estimator.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/other_201501_15/task_5/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/task_0/grammar_estimator.grest",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/task_0/final_population.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/tmp.pop",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/t3.inconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/test.parconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/t1.inconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/experimental/ab.inconf",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/algorithm.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/datalayer.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/production.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/environment.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/gui/options_configurator.ui",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/ab opt max 15",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/grammar_estimator.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/traceback.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/cyk_executors.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/induction.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/core.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/bra3 opt los 65534",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/log.log",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/t3 opt 15 max",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/evolution.png",
+		"/C/Users/Michał/Downloads/bezkontekstowe/ab los 200 30",
+		"/C/Users/Michał/Desktop/todo.todo",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/rule_adding.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/grammar_statistics.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/bra1 opt 15 max",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/data/example gramatics/pal2 opt parzysty max 15",
+		"/C/Users/Michał/PY-143.589_Michał_23.11.2015_06.59.10/PY-143.589_Michał_23.11.2015_06.59.10.hprof",
+		"/C/Users/Michał/Downloads/bezkontekstowe/t3 opt 15 max",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/production.wsdi",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/grammar_corrector.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/coverage_operators.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/inductionlean1__gen.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/inductionh1__gen.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/inductionh1_lean__gen.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/core.wsd",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/induction_concept.png",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/TODO.todo",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/__pycache__/factory.cpython-34.pyc",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/__pycache__/__init__.cpython-34.pyc",
+		"/C/Users/Michał/PycharmProjects/mgr/sgcs/sgcs/diagrams/induction.wsd",
+		"/C/Users/Michał/Documents/pwrka/magisterka/diagramy/inductionde__gen.wsd",
+		"/C/Users/Michał/Documents/pwrka/magisterka/diagramy/inductionde__gen.png",
+		"/C/Users/Michał/Documents/pwrka/magisterka/diag_gen.py",
+		"/C/Users/Michał/Documents/pwrka/magisterka/diagramy/project",
+		"/C/Users/Michał/Documents/pwrka/magisterka/diagramy/induction.plant",
+		"/C/Users/Michał/Documents/pwrka/magisterka/diagramy/induction.txt",
+		"/C/Users/Michał/Desktop/flow",
+		"/C/Users/Michał/Downloads/D",
+		"/C/Users/Michał/Downloads/10738597_10205082919300312_243052437_n.py",
+		"/C/Users/Michał/Downloads/algorithms/dilations.c",
+		"/C/Users/Michał/Desktop/rozne/rcervclntekv"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"Z:\\from_local\\c7_ut_fix_synchronization\\bm",
+			"Z:\\from_local\\c7_ut_fix_autodetection\\bm",
+			"Z:\\from_local\\c7_ut_fix_autodetection\\bm\\autodetection",
+			"Z:\\from_local\\c7_ut_fix_autodetection\\bm\\autodetection\\testing",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.log,-*.txt",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml,-*.log,-*.txt",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml,-*.log,*.txt",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml,-*.log",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml,-*.log,-*.cpp,-*.h,-*.d,-*.plant,*.doc",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml,-*.log,-*.cpp,-*.h,-*.d,-*.plant",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml,-*.log,-*.cpp,-*.h,-*.d",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml,-*.log,-*.cpp,-*.h",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml,-*.log",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html,-*.xml",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*,-*.html",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm,-Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct\\testware\\fsm3\\target\\*",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm",
+			"Z:\\from_local\\c7_sct_sw_admin_arch_finding\\bm\\testing\\sct",
+			"Z:\\from_local\\c7_sct_swim_improve\\swim",
+			"D:\\userdata\\stempkow\\wrling33\\c7_sct_swim_improve"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bck",
+			"boundaries_editor",
+			"[",
+			"1 \\d",
+			"104",
+			"1 10 ",
+			"1 9 ",
+			"1 8 ",
+			"1 7 ",
+			"1 6 ",
+			"1 5 ",
+			"1 4 ",
+			"1 3 ",
+			"1 \\d",
+			"1 10 ",
+			"1 8 ",
+			"1 6 ",
+			"1 4 ",
+			"1 2 ",
+			"1 14 ",
+			"1 12 ",
+			"1 10 ",
+			"1 8 ",
+			"1 6 ",
+			"1 4 ",
+			"1 2 ",
+			"1 18",
+			"1 16",
+			"1 10",
+			"1 8",
+			"1 6",
+			"1 \\d",
+			"1 4",
+			"1 3",
+			"1 10",
+			"1 8",
+			"1 6",
+			"1 5",
+			"1 4 ",
+			"1 1 ",
+			"1 15",
+			"1 29",
+			"1 30",
+			"1 12",
+			"1 16",
+			"1 18",
+			"1 22",
+			"1 23",
+			"1 24",
+			"1 25",
+			"1 26",
+			"1 20",
+			"1 22",
+			"1 24",
+			"1 18",
+			"1 \\d",
+			"22",
+			"23",
+			"24",
+			"25",
+			"26",
+			"null",
+			"(5, 0, 5, 0, 0)",
+			"{1};{2};{1};{1};{1})",
+			"Sentence",
+			"illter",
+			"&dependency_executors",
+			"..",
+			"..>",
+			"dependency",
+			"..>",
+			"uses",
+			"rulepopulation",
+			"Environment",
+			"ExecutorTypeId",
+			"Environment",
+			"rule",
+			"production",
+			"2f91dbac29811fa512dc3a7e73e0e783aad57f6b",
+			"where",
+			"sql command to be executed",
+			"update",
+			"[",
+			",",
+			"{",
+			"\\",
+			"class_superlight_endurance",
+			"frame_carbondioxyde",
+			"descr",
+			"brakes_categ",
+			"v_brake",
+			"brakes_shiel",
+			"price_amature",
+			"class_superlight_racing",
+			"price_amature",
+			"python",
+			"varFolderName",
+			"2",
+			"\\n",
+			"2",
+			"]",
+			"[",
+			" ",
+			"dupa",
+			" 2",
+			"2",
+			"CUDA_HELPER_COMMON_H",
+			"DEBUG 1",
+			" ",
+			"ternary",
+			"prefere",
+			"index(0)",
+			"preferences_sample_logic",
+			"table",
+			"__sg_ternary_operator",
+			"preferences",
+			"local_data",
+			"local_data\\",
+			"local_data",
+			"block_id=0,  row=0, col=0,",
+			"block_id=0,  row=0, col=0, pos=0",
+			"log_debug",
+			"Color",
+			"rende",
+			"kerne",
+			"main",
+			"test_cuda_status",
+			"deviceProp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"requirements_editor",
+			"ilter",
+			"",
+			"frame_carbon",
+			"",
+			"get_number_from_line",
+			"PATH_TO_FS1",
+			"//f_check_target_bd_copy_after_successfull_download",
+			"check_command",
+			"sed_replace",
+			"prepare_command",
+			"pattern_file_name",
+			"checked_file_name",
+			"FILE_DIRECTORY_PATTERN_PATH",
+			"minor_version",
+			"major_version",
+			"minor_version",
+			"major_version",
+			"bash_terminal_output",
+			"command_to_do",
+			"path_to_file",
+			"console_out",
+			"ret_code",
+			"f_delete_file",
+			"",
+			",\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"file": "diagrams/component_diagram.png",
+					"semi_transient": false,
+					"stack_index": 4,
+					"type": "image"
+				},
+				{
+					"buffer": 0,
+					"file": "diagrams/app_bus.wsd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								496
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/sublime_diagram_plugin-master/Syntaxes/diagram.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "diagrams/component_diagram.wsd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								943,
+								943
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/sublime_diagram_plugin-master/Syntaxes/diagram.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "diagrams/layered_diagram.wsd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/sublime_diagram_plugin-master/Syntaxes/diagram.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"file": "diagrams/layered_diagram.png",
+					"semi_transient": false,
+					"stack_index": 3,
+					"type": "image"
+				},
+				{
+					"file": "diagrams/app_bus.png",
+					"semi_transient": false,
+					"stack_index": 0,
+					"type": "image"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "concept.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5960,
+								5960
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.803234303017,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.36036036036,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "docs.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"options",
+				"gui\\options_configurator.ui"
+			],
+			[
+				"clo",
+				"synchronization\\src\\clock\\clock_common.h"
+			],
+			[
+				"timer_stub",
+				"testing\\unit\\stubs\\bm_timer_stub.h"
+			],
+			[
+				"bm_sema",
+				"interface\\framework\\bm_semaphore.h"
+			],
+			[
+				"abstract_im_stor",
+				"testing\\unit\\mocks\\info_model\\abstract_im_storage_mock.h"
+			],
+			[
+				"synchronicon",
+				"synchronization\\src\\synchronization_constants.h"
+			],
+			[
+				"genera",
+				"synchronization\\src\\events\\general_ev.h"
+			],
+			[
+				"clock_commo",
+				"synchronization\\src\\clock\\clock_common.h"
+			],
+			[
+				"tuner",
+				"synchronization\\src\\hwa_objects\\sync\\tuner.h"
+			],
+			[
+				"managed_objects/syn",
+				"interface\\transport\\managed_objects\\sync.h"
+			],
+			[
+				"source_sele",
+				"synchronization\\src\\clock\\handlers\\source_monitoring\\source_selector.h"
+			],
+			[
+				"abstract_ser",
+				"interface\\framework\\abstract_service_registry.h"
+			],
+			[
+				"sync/tuner",
+				"synchronization\\src\\hwa_objects\\sync\\tuner.h"
+			],
+			[
+				"ut_source_sele",
+				"synchronization\\testing\\unit\\clock\\handlers\\source_monitoring\\ut_source_selector.cpp"
+			],
+			[
+				"ut_node_lis",
+				"synchronization\\testing\\unit\\time\\handlers\\node_config\\ut_node_list_handler.cpp"
+			],
+			[
+				"ut_time_service",
+				"synchronization\\testing\\unit\\time\\ut_time_service_creator.cpp"
+			],
+			[
+				"ut_im_observer_",
+				"synchronization\\testing\\unit\\clock\\observers\\ut_im_observer_clk.cpp"
+			],
+			[
+				"ut_top_han",
+				"synchronization\\testing\\unit\\clock\\handlers\\top\\ut_top_handler_data.cpp"
+			],
+			[
+				"sync_def",
+				"synchronization\\src\\sync_def.h"
+			],
+			[
+				"ut_top_handle",
+				"synchronization\\testing\\unit\\clock\\handlers\\top\\ut_top_handler_data.cpp"
+			],
+			[
+				"ut_sourcese",
+				"synchronization\\testing\\unit\\clock\\handlers\\source_monitoring\\ut_source_selector.cpp"
+			],
+			[
+				"abstract_im_sto",
+				"interface\\info_model\\abstract_im_storage.h"
+			],
+			[
+				"im_storage_mo",
+				"testing\\unit\\mocks\\info_model\\abstract_im_storage_mock.h"
+			],
+			[
+				"im_stor",
+				"info_model\\src\\storage\\im_storage.h"
+			],
+			[
+				"sync_obje",
+				"synchronization\\src\\im_objects\\sync_object.h"
+			],
+			[
+				"",
+				"synchronization\\src\\sync_def.h"
+			],
+			[
+				"sync.h",
+				"interface\\info_model\\objects\\sync.h"
+			],
+			[
+				"im_version",
+				"interface\\info_model\\im_version.h"
+			],
+			[
+				"info_model/abstract_object_factory_mock.cpp.h",
+				"testing\\unit\\mocks\\info_model\\abstract_object_factory_mock.cpp.h"
+			],
+			[
+				"sync_object.h",
+				"synchronization\\src\\im_objects\\sync_object.h"
+			],
+			[
+				"sync_def.h",
+				"synchronization\\src\\sync_def.h"
+			],
+			[
+				"info_model/objects/dsp.h",
+				"interface\\info_model\\objects\\dsp.h"
+			],
+			[
+				"sync_object",
+				"synchronization\\src\\im_objects\\sync_object.cpp"
+			],
+			[
+				"rat_request_event",
+				"synchronization\\src\\events\\rat_request_event.h"
+			],
+			[
+				"abstract_object_factory_mock",
+				"autodetection\\testing\\mocks\\abstract_object_factory_mock.cpp"
+			],
+			[
+				"abstract_mrbts_service_mock",
+				"testing\\unit\\mocks\\startup\\abstract_mrbts_service_mock.h"
+			],
+			[
+				"abstract_im_storage_mock",
+				"testing\\unit\\mocks\\info_model\\abstract_im_storage_mock.h"
+			],
+			[
+				"abstract_service_registry",
+				"interface\\framework\\abstract_service_registry.h"
+			],
+			[
+				"abstract_object_factory.h",
+				"interface\\info_model\\abstract_object_factory.h"
+			],
+			[
+				"ut_sync",
+				"synchronization\\testing\\unit\\objects\\ut_sync_object.cpp"
+			],
+			[
+				"ut_time_obje",
+				"synchronization\\testing\\unit\\objects\\ut_time_object.cpp"
+			],
+			[
+				"ut_osci",
+				"synchronization\\testing\\unit\\objects\\ut_oscillator_object.cpp"
+			],
+			[
+				"ut_time_sercreator",
+				"synchronization\\testing\\unit\\time\\ut_time_service_creator.cpp"
+			],
+			[
+				"waitforhwapi",
+				"testing\\unit\\stubs\\wait_for_hwapi_service_stub.h"
+			],
+			[
+				"waitforhwapiservicestub",
+				"testing\\unit\\stubs\\wait_for_hwapi_service_stub.cpp.h"
+			],
+			[
+				"waitforhwapiservice",
+				"autodetection\\testing\\stubs\\wait_for_hwapi_service_stub.cpp"
+			],
+			[
+				"wait",
+				"interface\\startup\\wait_for_hwapi_service.h"
+			],
+			[
+				"icom_service.cpp",
+				"autodetection\\testing\\unit\\fsm3\\srio\\ut_icom_service.cpp"
+			],
+			[
+				"icomser",
+				"autodetection\\testing\\unit\\fsm3\\srio\\ut_icom_service.cpp"
+			],
+			[
+				"mt_srio_service",
+				"autodetection\\testing\\unit\\fsm3\\srio\\mt_srio_service.cpp"
+			],
+			[
+				"mt_srio_se",
+				"autodetection\\testing\\unit\\fsm3\\srio\\mt_srio_service.cpp"
+			],
+			[
+				"mt_sri",
+				"autodetection\\testing\\unit\\fsm3\\srio\\mt_srio_service.cpp"
+			],
+			[
+				"bm_config.h",
+				"interface\\framework\\bm_config.h"
+			],
+			[
+				"bm_coi",
+				"interface\\framework\\bm_config.h"
+			],
+			[
+				"bm_tag",
+				"interface\\framework\\config\\bm_config_tag.h"
+			],
+			[
+				"aaconfigtagstu",
+				"testing\\unit\\src\\ccs\\AaConfigTagStub.h"
+			],
+			[
+				"aacon",
+				"testing\\unit\\src\\ccs\\AaConfigTagStub.h"
+			],
+			[
+				"bm_conf.cpp",
+				"framework\\testing\\unit\\config\\ut_bm_config_tag.cpp"
+			],
+			[
+				"bm_tags",
+				"external_interface\\candidate\\definitions\\bm_tags.h"
+			],
+			[
+				"bm_con",
+				"interface\\framework\\bm_config.h"
+			],
+			[
+				"bm_co",
+				"framework\\src\\bm_config.cpp"
+			],
+			[
+				"aasyscom",
+				"testing\\unit\\src\\ccs\\AaSysCom.cpp"
+			],
+			[
+				"srio_servic",
+				"autodetection\\src\\fsm3\\srio\\srio_service.cpp"
+			],
+			[
+				"srio_ser",
+				"autodetection\\src\\fsm3\\srio\\srio_service.h"
+			],
+			[
+				"sic/messagere",
+				"interface\\framework\\sic\\message_receiver.h"
+			],
+			[
+				"hwapi",
+				"testing\\sct\\testware\\fsm3\\functionality\\srio\\hwapi_srio.ttcn3"
+			],
+			[
+				"hwapisrio",
+				"testing\\sct\\testware\\fsm3\\functionality\\srio\\hwapi_srio.ttcn3"
+			],
+			[
+				"message_re",
+				"framework\\testing\\unit\\sic\\sic_message_receiver_test.cpp"
+			],
+			[
+				"message_handler",
+				"info_model\\src\\server\\request_processor\\update_notification\\bm_manageable_object_handler.cpp"
+			],
+			[
+				"hwapi_srio",
+				"testing\\sct\\testware\\fsm3\\functionality\\srio\\hwapi_srio.ttcn3"
+			],
+			[
+				"absradparamsstu",
+				"testing\\unit\\stubs\\abstract_rad_params_stub.h"
+			],
+			[
+				"abstrradparam",
+				"interface\\startup\\abstract_rad_params.h"
+			],
+			[
+				"abstract_radstub",
+				"autodetection\\testing\\stubs\\abstract_rad_params_stub.cpp"
+			],
+			[
+				"abstractrad",
+				"interface\\startup\\abstract_rad_params.h"
+			],
+			[
+				"srioservi",
+				"autodetection\\src\\fsm3\\srio\\srio_service.cpp"
+			],
+			[
+				"aaco",
+				"testing\\unit\\src\\ccs\\AaConfigTag.cpp"
+			],
+			[
+				"bm_ta",
+				"external_interface\\candidate\\definitions\\bm_tags.h"
+			],
+			[
+				"abstract_subsystem_creator_stub.h",
+				"testing\\unit\\stubs\\abstract_subsystem_creator_stub.cpp.h"
+			],
+			[
+				"abssubsystemstub",
+				"autodetection\\testing\\stubs\\abstract_subsystem_creator_stub.cpp"
+			],
+			[
+				"abstrsubs",
+				"interface\\startup\\abstract_subsystem_creator.h"
+			],
+			[
+				"mtsrio_ser",
+				"autodetection\\testing\\unit\\fsm3\\srio\\mt_srio_service.cpp"
+			],
+			[
+				"domaholdt",
+				"src\\fsm3\\srio\\domain_id_hold_tag.cpp"
+			],
+			[
+				"eoperationtype",
+				"interface\\framework\\hwa_om\\EOperationType.h"
+			],
+			[
+				"softwarere_adm.ttc",
+				"testing\\sct\\testware\\fsm3\\functionality\\software_admin\\software_admin.ttcn3"
+			],
+			[
+				"softwaservi.cpp",
+				"software_admin\\src\\fsm3\\software_admin\\software_admin_service.cpp"
+			],
+			[
+				"bmsa",
+				"testing\\sct\\testware\\fsm3\\messages\\bmSACK.ttcn3"
+			],
+			[
+				"ts_info",
+				"testing\\sct\\testware\\common\\testcases\\ts_info_model_operations.ttcn3"
+			],
+			[
+				"software_adm_base_tes",
+				"software_admin\\testing\\unit\\fsm3\\software_admin\\software_admin_base_test.h"
+			],
+			[
+				"softwa.ttcn3",
+				"testing\\sct\\testware\\fsm3\\functionality\\software_admin\\software_admin.ttcn3"
+			],
+			[
+				"tftpsoftwdown",
+				"testing\\sct\\testware\\fsm3\\functionality\\software_admin\\tftp_software_download.ttcn3"
+			],
+			[
+				"tar",
+				"software_admin\\testing\\data\\TargetBD.xml"
+			],
+			[
+				"sandbox.sh",
+				"testing\\sct\\testware\\common\\build_sh\\sandbox.sh"
+			],
+			[
+				"tftp_softwa",
+				"testing\\sct\\testware\\fsm3\\functionality\\software_admin\\tftp_software_download.ttcn3"
+			],
+			[
+				"commofuncti",
+				"testing\\sct\\testware\\common\\components\\CommonFunctions.ttcn3"
+			],
+			[
+				"software_admin.tt",
+				"testing\\sct\\testware\\fsm3\\functionality\\software_admin\\software_admin.ttcn3"
+			],
+			[
+				"ts_softwa",
+				"testing\\sct\\testware\\fsm3\\testcases\\ts_software_admin.ttcn3"
+			],
+			[
+				"tftp_ser",
+				"testing\\sct\\testware\\common\\functionality\\tftp_server.ttcn3"
+			],
+			[
+				"compo",
+				"testing\\sct\\testware\\fsm3\\components\\components.ttcn3"
+			],
+			[
+				"ts_ntp_syn",
+				"testing\\sct\\testware\\common\\testcases\\ts_ntp_sync_between_bms.ttcn3"
+			],
+			[
+				"cons",
+				"testing\\sct\\testware\\common\\components\\constants.ttcn3"
+			],
+			[
+				"ts_softw",
+				"testing\\sct\\testware\\fsm3\\testcases\\ts_software_admin.ttcn3"
+			],
+			[
+				"commonf",
+				"testing\\sct\\testware\\common\\components\\CommonFunctions.ttcn3"
+			],
+			[
+				"tftp_softwadownl",
+				"testing\\sct\\testware\\fsm3\\functionality\\software_admin\\tftp_software_download.ttcn3"
+			],
+			[
+				"file_handli",
+				"testing\\sct\\testware\\fsm3\\functionality\\software_admin\\file_handling.ttcn3"
+			],
+			[
+				"basecomponent",
+				"testing\\sct\\testware\\common\\components\\BaseComponent_common.ttcn3"
+			],
+			[
+				"tftp",
+				"testing\\sct\\testware\\common\\functionality\\tftp_server.ttcn3"
+			],
+			[
+				"ts_soft",
+				"testing\\sct\\testware\\fsm3\\testcases\\ts_software_admin.ttcn3"
+			],
+			[
+				"runte",
+				"testing\\sct\\testware\\fsm3\\runtests.sh"
+			],
+			[
+				"software_admin",
+				"software_admin\\src\\fsm3\\software_admin\\software_admin_service.cpp"
+			],
+			[
+				"softwa",
+				"software_admin\\bin\\fsmf_test\\software_admin"
+			],
+			[
+				"sdk.in",
+				"make\\core\\sdk.in"
+			],
+			[
+				"common.in",
+				"make\\core\\common.in"
+			],
+			[
+				"software_admin_ser",
+				"software_admin\\src\\fsm3\\software_admin\\software_admin_service.cpp"
+			],
+			[
+				"con.py",
+				"testing\\sct\\testware\\common\\scripts\\Con_TargetBD_TTCN3.py"
+			],
+			[
+				"gen_buil",
+				"software_admin\\src\\fsm3\\software_admin\\operations\\gen_build_descriptor_operation.h"
+			],
+			[
+				"gen_bu",
+				"software_admin\\src\\fsm3\\software_admin\\operations\\gen_build_descriptor_operation.h"
+			],
+			[
+				"ts_so",
+				"testing\\sct\\testware\\fsm3\\testcases\\ts_software_admin.ttcn3"
+			],
+			[
+				"gen_build",
+				"software_admin\\src\\fsm3\\software_admin\\operations\\gen_build_descriptor_operation.cpp"
+			],
+			[
+				"mtft",
+				"testing\\sct\\testware\\common\\components\\MTFTPServer.ttcn3"
+			],
+			[
+				"tftp.cpp",
+				"testing\\unit\\src\\ccs\\AaFileTftp.cpp"
+			],
+			[
+				"filesyste",
+				"interface\\framework\\filesystem.h"
+			],
+			[
+				"constan",
+				"testing\\sct\\testware\\common\\components\\constants.ttcn3"
+			],
+			[
+				"envitr",
+				"testing\\sct\\testware\\common\\components\\environment.ttcn3"
+			],
+			[
+				"basecomp",
+				"testing\\sct\\testware\\common\\components\\BaseComponent_common.ttcn3"
+			],
+			[
+				"components",
+				"testing\\sct\\testware\\fsm3\\components\\components.ttcn3"
+			],
+			[
+				"mtarge",
+				"testing\\sct\\testware\\fsm3\\messages\\MTargetBD.ttcn3"
+			],
+			[
+				"con_targe",
+				"testing\\sct\\testware\\common\\scripts\\Con_TargetBD_TTCN3.py"
+			],
+			[
+				"software_admin_servi",
+				"software_admin\\src\\fsm3\\software_admin\\software_admin_service.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"srio_cre",
+				"SRIO_CREATOR_H_"
+			],
+			[
+				"srio_creator",
+				"SRIO_CREATOR_H_"
+			],
+			[
+				"createsubs",
+				"create_subsystem"
+			],
+			[
+				"check_bm_sta",
+				"f_check_bm_state"
+			],
+			[
+				"bm_stat",
+				"set_bm_state"
+			],
+			[
+				"bm_state",
+				"set_bm_state"
+			]
+		],
+		"width": 636.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
